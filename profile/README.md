@@ -4,11 +4,14 @@ Welcome to the official GitHub page of **Hover Mint**, a revolutionary NFT bot d
 
 ## 🎉 Achievements
 
-- **Speed**: Our bot could secure NFTs in less than 100ms from the moment they were launched, ensuring our users were always ahead of the competition.
-- **Community Success**: Over 100,000 NFTs were purchased using our bot, highlighting the trust and efficiency of our platform.
-- **Profitable**: Our users collectively made **over $20,000,000 in profit**, demonstrating the effectiveness of our bot in the NFT market.
+- [x] **Speed**: Our bot could secure NFTs in less than 100ms from the moment they were launched, ensuring our users were always ahead of the competition.
+- [x] **Community Success**: Over 100,000 NFTs were purchased using our bot, highlighting the trust and efficiency of our platform.
+- [x] **Profitable**: Our users collectively made **over $20,000,000 in profit**, demonstrating the effectiveness of our bot in the NFT market.
+- [x] **Community**: We were a private bot with only around 300 members. The bot was held private and invite-only to ensure all members were successful.
+- [x] **App**: A secure, web-based application providing a seamless user experience without the need for downloads, entirely cloud-hosted on top-tier servers globally.
 
-## Technology
+
+## 🛠️ Technology
 
 - **Blockchain**: Built exclusively for the Solana blockchain, leveraging its speed and low transaction fees to maximize efficiency and profitability.
 - **Advanced Algorithms**: Utilized state-of-the-art algorithms to ensure the quickest purchase times, the best chances of securing the most sought-after NFTs, and avoiding scam projects.
