@@ -16,12 +16,9 @@ Welcome to the official GitHub page of **Hover Mint**, a revolutionary NFT bot d
 - **Blockchain**: Built exclusively for the Solana blockchain, leveraging its speed and low transaction fees to maximize efficiency and profitability.
 - **Advanced Algorithms**: Utilized state-of-the-art algorithms to ensure the quickest purchase times, the best chances of securing the most sought-after NFTs, and avoiding scam projects.
 
-> [!IMPORTANT]
-> Our advanced algorithms are designed to avoid scam projects, ensuring a safer trading experience.
-
 ## 📉 Closure
 
-> [!WARNING]
-> Hover Mint was shut down in late 2022 due to the decline of the NFT market. 
+> [!IMPORTANT]
+> Hover Mint was shut down in late 2022. 
 
 Unfortunately, **Hover Mint** was shut down in late 2022 due to the decline of the NFT market. Despite this, our legacy lives on through the impressive achievements and profits our users were able to realize during our operation.
